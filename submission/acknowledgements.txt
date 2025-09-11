@@ -1,0 +1,6 @@
+Acknowledgements
+================
+I would like to thank the following resources for the their assistance in this project:
+- Professor Considine for his valuable content on Blackboard and quick comments on Piazza.
+- My peers who are active on Piazza and asking questions to clarify project requirements.
+- The documentation for statsmodels was beneficial for implementing the Autoregression model and understanding it.
